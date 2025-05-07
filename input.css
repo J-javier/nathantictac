@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+
+/* Amarrillo */
+@theme {
+    --shadow-3xl: 1px 8px 0px rgba(245, 119, 0, 1); 
+  }
+
+ /*Color Azul */ 
+  @theme {
+    --shadow-4xl: 1px 8px 0px rgba(0, 99, 107, 1); 
+  }
+
+/* Color Azul Oscuro */
+@theme {
+    --shadow-6xl: 0px 8px 0px rgba(20, 31, 34, 1); 
+  }
+
+/* Color Azul Oscuro Botones pequeños*/  
+@theme {
+    --shadow-7xl: 1px 5px 0px rgba(20, 31, 34, 1); 
+  }
+
+
+  /*Reload Botton*/
+  @theme {
+    --shadow-5xl: 0px 5px 0px rgba(156, 160, 159, 1); 
+  }
